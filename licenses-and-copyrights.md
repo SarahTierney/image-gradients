@@ -1,5 +1,3 @@
-# image-gradients
-
 # Licenses & copyrights
 
 - †	[clover-like leaves](https://www.flickr.com/photos/eorus/14334878052) from Flickr; © Alper Orus, CC BY-NC-SA 3.0
